@@ -24,7 +24,7 @@ In this project, I created a README generator by utilizing JavaScript, Node.js, 
 <div id="installation"></div>
 
 ## Installation
-Node.js and Inquirer
+Inquirer and Node.js
 
 <div id="usage"></div>
 
@@ -39,12 +39,12 @@ This application is covered under the MIT license.
 <div id="contributing"></div>
 
 ## Contributing
-Me, myself, and I :)
+Matt Reynolds and my wonderful class instructors
 
 <div id="tests"></div>
 
 ## Tests
-You can open the code and enter node index.js into the integrated terminal to begin running tests.
+By running node index.js in the integrated terminal
 
 <div id="questions"></div>
 

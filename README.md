@@ -13,6 +13,6 @@ When the user clicks on the license badge at the top of the page, he or she will
 When the user clicks on the links in the Table of Contents, he or she will be taken to that section of the sampleREADME.
 ```
 
-GitHub Repository Link: 
+GitHub Repository Link: https://github.com/MattReynolds53/ReadMe-Generator
 
-ScreenCastify Walkthrough Link: 
+ScreenCastify Walkthrough Link: https://drive.google.com/file/d/1NefL4kFBIOX0_9IKJPIw9-Q_omebExc-/view

@@ -55,3 +55,5 @@ inquirer.prompt([
     fs.writeFile('sampleREADME.md', markdown(answer), (err) => err ? console.log(err) : console.log('Success! You have created a new read me file!'));
 })
 // Above is where I create the sampleREADME and console.log a success message if the README is properly created
+
+
