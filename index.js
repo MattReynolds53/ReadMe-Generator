@@ -13,13 +13,13 @@ inquirer.prompt([
   {
     type: 'list',
     name: 'license',
-    message: 'What license if any are you using?',
+    message: 'What license, if any, are you using?',
     choices: ['MIT', 'Apache_2.0', 'Boot_1.0', 'BSD_3']
   },
   {
       type: "input",
       name: "description",
-      message: " Describe your project is detail."
+      message: " Describe your project in detail."
   },
   {
       type: 'input',
