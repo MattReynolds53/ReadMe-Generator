@@ -44,11 +44,6 @@ inquirer.prompt([
     name: 'questionUsername',
     message: 'Please enter your GitHub username.'
 },
-// {
-//     type: 'input',
-//     name: 'questionLink',
-//     message: 'Please paste the link to your GitHub profile.'
-// },
 {
     type: 'input',
     name: 'questionEmail',

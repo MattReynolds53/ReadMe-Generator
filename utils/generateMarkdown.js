@@ -1,5 +1,4 @@
 // TODO: Create a function to generate markdown for README
-// Required sections: Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 function generateMarkdown(data) {
   return `# ${data.title}
 ## License
