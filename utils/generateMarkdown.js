@@ -6,7 +6,6 @@ function generateMarkdown(data) {
 [![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/${data.license})
 
 ## Table of Contents
-<a href="description">Description</a>
 [Description](#Description)
 
 [Installation](#Installation)
